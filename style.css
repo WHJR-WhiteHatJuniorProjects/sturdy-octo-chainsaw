@@ -1,0 +1,18 @@
+_text{
+font-size:25px;
+background-color:darksalmon;
+width:100%;
+}
+.copy_right_footer{
+	position:fixed;
+	font-size:20px;
+	bottom:0%;
+	width:100%;
+	line-height:2;
+	background-color: aqua
+}
+
+canvas{
+border: 5px solid aqua;
+border-radius:20%;
+}
